@@ -9,7 +9,7 @@
     "url": "https://superduper.nz"
   },
   "homepage": "https://getonemove.app",
-  "repository": "https://github.com/chrissuperduper/workstreams",
+  "repository": "https://github.com/chrissuperduper/one-move-agent",
   "license": "UNLICENSED",
   "keywords": ["chess", "poker", "reports", "agent", "mcp"]
 }
