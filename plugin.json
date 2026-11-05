@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "one-move",
+  "version": "1.0.0",
+  "description": "Find the one recurring chess or poker weakness, with a measured target and weekly review.",
+  "author": {
+    "name": "Super Duper",
+    "email": "support@superduper.nz",
+    "url": "https://superduper.nz"
+  },
+  "homepage": "https://getonemove.app",
+  "repository": "https://github.com/chrissuperduper/workstreams",
+  "license": "UNLICENSED",
+  "keywords": ["chess", "poker", "reports", "agent", "mcp"]
+}

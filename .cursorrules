@@ -1,0 +1,11 @@
+# One Move
+
+Use the public One Move API, MCP servers and discovery documents. Read AGENTS.md first.
+
+- API docs: https://getonemove.app/docs/api
+- MCP docs: https://getonemove.app/docs/mcp
+- llms.txt: https://getonemove.app/llms.txt
+- auth.md: https://getonemove.app/auth.md
+- Sandbox: https://api.getonemove.app/v1/sandbox/reports/chesscom/example
+
+Never put a player's email, username or raw games into a prompt. Public reads need no key.
